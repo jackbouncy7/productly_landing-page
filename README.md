@@ -15,8 +15,7 @@
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-  <img src="https://i.ibb.co/xqfmBWZ/Screenshot-2.png" alt="Productly Screenshot" width="600px" height="600px" style="object-fit: cover;">
-  <img src="https://via.placeholder.com/400x300" alt="Productly Screenshot" width="400px">
+  <img src="https://i.ibb.co/xqfmBWZ/Screenshot-2.png" alt="Productly Screenshot" width="400px">
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
