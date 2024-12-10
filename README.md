@@ -32,3 +32,8 @@ To run this project locally, you can clone the repository:
 ```bash
 git clone https://github.com/jackbouncy7/productly_landing-page
 ```
+
+cd github-user-finder  
+
+Open index.html in your browser to use the app.
+
